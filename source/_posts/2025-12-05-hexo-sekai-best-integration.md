@@ -156,3 +156,5 @@ npx hexo s # 开启本地预览服务器
 - 列表一致性：不同页面统一使用同一套列表，视觉更稳定。
  
 折腾了下挺好玩的，给有需要的人吧，代码会丢到Github仓库的
+
+Sekai Cover Kit：https://github.com/LittleXiaYuan/sekai-cover-kit
