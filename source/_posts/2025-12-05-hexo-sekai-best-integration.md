@@ -8,8 +8,7 @@ tags:
   - ShokaX
   - Sekai
   - 博客美化
-cover: https://storage.sekai.best/sekai-jp-assets/character/member/res021_no010/card_after_training.webp
----
+=---
 
 > “哭泣的闪光刺痛双眼、随后离别的钟声开始响起。”
 
