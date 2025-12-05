@@ -4,7 +4,7 @@
 
 # Site
 title: 夏鸢的波子汽水店
-subtitle: ''
+subtitle: '直视平庸，保持谦逊'
 description: '全栈开发者的碎碎念 | 追求源于热爱'
 keywords:
 author: 夏鸢
@@ -99,7 +99,7 @@ ignore:
 theme: shokax
 
 theme_config:
-  alternate: 直视平庸，保持谦逊
+  alternate: ''
   sidebar:
     avatar: avatar.png
   menu:
@@ -127,6 +127,13 @@ theme_config:
     - /assets/sekai/res021_no011_card_after_training.webp
     - /assets/sekai/res021_no012_card_after_training.webp
   audio: []
+  social:
+    github: https://github.com/LittleXiaYuan || github || "#191717"
+    twitter: https://twitter.com/LittleXiaYuan || twitter || "#00aff0"
+    zhihu: https://www.zhihu.com/people/XiaYuan || zhihu || "#1e88e5"
+    music: https://music.163.com/#/user/home?id=368705950 || cloud-music || "#e60026"
+    about: https://owo.today/about/ || address-card || "#3b5998"
+    stackoverflow: https://stackoverflow.com/users/27791605/xiayuanowo || stack-overflow
   experiments:
     antiFakeWebsite: false
 
